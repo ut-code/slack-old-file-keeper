@@ -1,0 +1,10 @@
+/node_modules
+
+# Slack からエクスポートされたデータ
+/data
+
+# Slack からダウンロードされたファイル
+/files
+
+# Slack からダウンロードされたファイルのメタデータ
+/files.json
